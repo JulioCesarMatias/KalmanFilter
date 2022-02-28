@@ -20,7 +20,7 @@
  * If not, see <http://www.gnu.org/licenses/>.
  */
 
-#define LOOP_RATE 1000
+#define LOOP_RATE 1000 // 1Khz Loop
 
 #define MAX_KALMAN_WINDOW_SIZE 65
 
